@@ -11,4 +11,9 @@ A web based e-learning platform that will use several techniques to produce a se
 * Test and validate the application to ensure maximum security. 
 * Create a report. 
 
-
+Technologies that will be used:
+* HTML: The structure of all the webpages
+* CSS: Focuses on the design and visual elements of each page
+* JavaScript: Any animations
+* PHP: The logic for the login system
+* MySQL: The database server for the login system
